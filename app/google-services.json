@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1018574301545",
+    "firebase_url": "https://uttar-pradesh-59023.firebaseio.com",
+    "project_id": "uttar-pradesh-59023",
+    "storage_bucket": "uttar-pradesh-59023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018574301545:android:c67d13b0eae2684823f5f8",
+        "android_client_info": {
+          "package_name": "com.covid19.uttarpradesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018574301545-5adfftqngp900a33nkkrcpmn8hfj3sm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.uttarpradesh",
+            "certificate_hash": "3db8cd558aff88d5fbd857bf239382aeafe23508"
+          }
+        },
+        {
+          "client_id": "1018574301545-7tdhoi1dqra5v3ij46ohcsfi40d0jnpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU_a4CfqXN8fEGXipT5WgTQqVpZg-j4CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018574301545-7tdhoi1dqra5v3ij46ohcsfi40d0jnpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
